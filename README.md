@@ -258,8 +258,8 @@ df = pd.read_csv("ecommerce_customer_churn_dataset.csv")
 
 Add your professional links:
 
-- LinkedIn: `https://www.linkedin.com/in/<your-profile>/`
-- GitHub: `https://github.com/<your-username>`
+- LinkedIn: `https://www.linkedin.com/in/amit-shahare-9b1450301/`
+- GitHub: `https://github.com/aMIT-sHAHARE`
 
 ---
 
